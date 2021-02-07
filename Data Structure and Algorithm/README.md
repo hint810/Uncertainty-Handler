@@ -26,3 +26,8 @@
 ## Study & Tips
 * [Data Structure and Algorithm](https://github.com/seock04/Uncertainty-Handler/wiki/Data-Structure-and-Algorithm)
 * [Tips for exam](https://github.com/seock04/Uncertainty-Handler/wiki/Tips-for-exam)
+
+
+#### DP problem Solving
+1. https://leetcode.com/problems/unique-paths/ (Done)
+2. https://leetcode.com/problems/minimum-falling-path-sum/ (TBD)
